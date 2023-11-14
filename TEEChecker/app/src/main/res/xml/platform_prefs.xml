@@ -23,10 +23,10 @@
             android:summary="(none)"
             android:title="@string/platform_keystore_supported_types" />
 
-        <CheckBoxPreference
-            android:key="keystore-hw"
-            android:selectable="false"
-            android:title="@string/platform_keystore_hardware" />
+<!--        <CheckBoxPreference-->
+<!--            android:key="keystore-hw"-->
+<!--            android:selectable="false"-->
+<!--            android:title="@string/platform_keystore_hardware" />-->
 
         <EditTextPreference
             android:key="keystore-hw-keytypes"

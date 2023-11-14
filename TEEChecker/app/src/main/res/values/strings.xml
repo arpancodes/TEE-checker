@@ -10,7 +10,7 @@
     <string name="device">Device</string>
     <string name="version">Version</string>
     <string name="platform_keystore_title">Android Keystore API</string>
-    <string name="platform_keystore_supported">Keystore supported?</string>
+    <string name="platform_keystore_supported">Keys reside in secure hardware?</string>
     <string name="platform_keystore_supported_types">Key types</string>
     <string name="platform_keystore_hardware">Backed by hardware?</string>
     <string name="platform_keystore_hardware_types">Hardware key types</string>
